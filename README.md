@@ -1,4 +1,6 @@
 # Object Oriented Programming — Course Repository
+<img width="252" height="253" alt="Screenshot 2026-03-05 at 08 40 44" src="https://github.com/user-attachments/assets/2b206918-cc16-457d-ab45-f1fb17a9fb44" />
+
 
 ## Required Accounts
 
@@ -6,6 +8,7 @@
 - [ ] Gmail account
 - [ ] Discord account
 
+https://discord.gg/w3MTztjY
 ## Course Requirements
 
 - Minimum **80% attendance**
